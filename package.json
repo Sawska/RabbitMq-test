@@ -1,0 +1,14 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sawska",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
